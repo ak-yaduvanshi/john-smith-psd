@@ -186,7 +186,7 @@ body {
 
 .banner {
     background-color: #4a5471;
-    background: url(/img/bg-1.webp) no-repeat center top/cover;
+    background: url(img/bg-1.webp) no-repeat center top/cover;
     color: #fff;
     text-align: center;
     padding: 230px 0 100px;
@@ -419,7 +419,7 @@ body {
 .circle:hover{transform: scale(1.2);color: lightseagreen;}
 
 .wrap-5 {
-    background: url(/img/bg-2.webp) no-repeat center top/cover;
+    background: url(img/bg-2.webp) no-repeat center top/cover;
     padding: 130px 0 185px;
     color: #fff;
 }
@@ -578,7 +578,7 @@ body {
 }
 
 .wrap-9 {
-    background: url(/img/bg-3.webp)no-repeat center center/cover;
+    background: url(img/bg-3.webp)no-repeat center center/cover;
     padding: 70px 0 64px;
 }
 
